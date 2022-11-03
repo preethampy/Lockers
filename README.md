@@ -3,6 +3,15 @@
 
 You can read this blog post [HERE](https://medium.com/@preetham.web3/a-simple-basic-time-lock-contract-in-solidity-4ec453d5b5f7) or clone/download and follow along here by following below steps:  
 
+## Installation
+
+Install required modules for this project with npm
+
+```bash
+  cd Lockers
+  npm install
+```
+
 
 ## Environment Variables
 
@@ -12,15 +21,6 @@ To run this project, you will need to add the following environment variables to
 `METAMASK_PRIVATE_KEY = ""`  
 `ETHERSCAN_APIKEY = ""`  
 
-
-## Installation
-
-Install required modules for this project with npm
-
-```bash
-  cd Lockers
-  npm install
-```
     
 ## Finally
 
