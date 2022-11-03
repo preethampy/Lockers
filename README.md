@@ -1,7 +1,7 @@
 
 # Lockers contract
 
-You can read this blog post HERE or clone/download and follow along here by following below steps:  
+You can read this blog post [HERE](https://medium.com/@preetham.web3/a-simple-basic-time-lock-contract-in-solidity-4ec453d5b5f7) or clone/download and follow along here by following below steps:  
 
 
 ## Environment Variables
